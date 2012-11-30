@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launcher_name">FD Toggle</string>
+    <string name="app_name">Fast Dormancy Toggle for LGOG AT&amp;T</string>
+    <string name="desc">Device must be rebooted to apply changes\n\nRoot is not required</string>
+	<string name="status">Status:</string>
+	<string name="last">Last action result:</string>
+	<string name="enabled">Enabled</string>
+	<string name="disabled">Disabled</string>
+	<string name="enable">Enable</string>
+	<string name="disable">Disable</string>
+	<string name="unknown">Unknown (try enable or disable and reboot)</string>
+	<string name="error">Error (check logcat)</string>
+	<string name="success">Success (reboot to apply)</string>
+	<string name="read_ok">FD value read successfully</string>
+</resources>
