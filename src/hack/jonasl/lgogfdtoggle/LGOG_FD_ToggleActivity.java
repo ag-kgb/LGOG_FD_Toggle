@@ -16,7 +16,7 @@ public class LGOG_FD_ToggleActivity extends Activity {
 	private static String TAG = "LGOGFDToggle";
 	private static String DEFAULT = "1,0,0,1000,5000,60000,3000,5000,1,8";
 	private static Uri URI = Uri.parse("content://telephony/dcm_settings");
-	private static String SELECTION = "numeric = \'310410\'";
+	private static String SELECTION = "numeric = \'22003\'";
 
 	private TextView mStatus;
 	private TextView mLast;
